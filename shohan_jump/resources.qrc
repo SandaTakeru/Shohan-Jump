@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/shohan_jump" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
