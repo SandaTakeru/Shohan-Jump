@@ -7,20 +7,19 @@ name=Shohan Jump 2
 qgisMinimumVersion=3.0
 description=This plugin show specific Shohan (Areas of segmented forests in Japanese). 小班を検索・表示します。
 version=0.20240808
-author=Takeru Sanda
-email=takeru_sanda999@maff.go.jp
+author=Sanda Takeru
+email=location.lab@sanda-takeru.com
 
 about=This plugin displays the location of the Japan National Forest on the map canvas by specifying attribute values. 属性テーブルの情報（林班主番・小班名・小班枝番）に基づき、特定の小班を選択状態にしてマップキャンバスの中央に表示します。
 
-tracker=https://github.com/TakeruSanda/Shohan-Jump.git
-repository=https://github.com/TakeruSanda/Shohan-Jump.git
+tracker=https://github.com/SandaTakeru/Shohan-Jump/issues
+repository=https://github.com/SandaTakeru/Shohan-Jump
 # End of mandatory metadata
 
 # Recommended items:
 
 hasProcessingProvider=no
-# Uncomment the following line and add your changelog:
-# changelog=
+changelog=0.20240808 first release.
 
 # Tags are comma separated with spaces allowed
 tags=python,Forest,Jump
