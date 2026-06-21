@@ -8,7 +8,7 @@
                              -------------------
         begin                : 2024-02-01
         copyright            : (C) 2024 by Takeru Sanda
-        email                : takeru_sanda999@maff.go.jp
+        email                : location.lab@sanda-takeru.com
         git sha              : $Format:%H$
  ***************************************************************************/
 

@@ -10,7 +10,7 @@
         version              : 20240507
         git sha              : $Format:%H$
         copyright            : (C) 2024 by Takeru Sanda
-        email                : takeru_sanda999@maff.go.jp
+        email                : location.lab@sanda-takeru.com
  ***************************************************************************/
 """
 
